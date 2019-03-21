@@ -11,11 +11,11 @@ tbody tr:nth-child(odd){
 }
 
 tfoot {
-  font-weight:bold;
+  font-weight :bold;
 }
 
 .year {
-  width:7em;
+  width: 7em;
 }
 
 .distance {
